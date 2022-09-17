@@ -174,5 +174,5 @@ for branch in "${branches[@]}"; do
 
         cp -a entrypoint/*.sh "$dir/"
 
-    done done
+    done done done
 done
